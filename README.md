@@ -1,6 +1,6 @@
 # Lector de ZItem y ZItem_Locale
 
-_Con este lector podrás saber cuantos items estás agregando al ZItem.xml y ZItem_Locale.xml en conjunto, también te mostrará cuales son los <<ITEM id="numero">> que se repiten en la consola._
+_Con este lector podrás saber cuantos items estás agregando al ZItem.xml y ZItem_Locale.xml en conjunto, también te mostrará cuales son los < ITEM id="numero" > que se repiten en la consola._
 
 _Además te dejará un archivo llamado **ids.txt** donde podrás ver los id obtenidos, este formato que te deja es para copiarlos y agregarlos a la base de datos SQL, se puede modificar para uso personal.
 
