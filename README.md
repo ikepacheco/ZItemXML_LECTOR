@@ -1,10 +1,12 @@
 # Lector de ZItem y ZItem_Locale
 
-_Con este lector podrás saber cuantos items estás agregando al ZItem.xml y ZItem_Locale.xml en conjunto, también te mostrará cuales son los <ITEM id="numero"> que se repiten en la consola._
+_Con este lector podrás saber cuantos items estás agregando al ZItem.xml y ZItem_Locale.xml en conjunto, también te mostrará cuales son los <<ITEM id="numero">> que se repiten en la consola._
+
 _Además te dejará un archivo llamado **ids.txt** donde podrás ver los id obtenidos, este formato que te deja es para copiarlos y agregarlos a la base de datos SQL, se puede modificar para uso personal.
 
 ```
-Se debe aclarar que este programa está enfocado en su uso exclusivamente para Gunz, si usted desea puede modificarlo para usarlo a su manera.
+Se debe aclarar que este programa está enfocado en su uso exclusivamente para Gunz, 
+si usted desea puede modificarlo para usarlo a su manera.
 ```
 
 ## Uso 🚀
@@ -23,14 +25,14 @@ Mira las **imágenes** para entender el ejemplo.
 _C# .NET para escritorio en **Visual Studio 2022**._
 
 ```
-Asegurarse que sea la versión **Desarrollo de escritorio .NET**
+Asegurarse que sea la versión <Desarrollo de escritorio .NET>
 ```
 
 ![Instalador de Visual Studio](https://github.com/ikepacheco/ZItemXML_LECTOR/blob/main/VSTUDIOINSTALADOR.png?raw=true)
 
 
 ```
-Ejemplo de archivo **ids.txt**
+Ejemplo de archivo <ids.txt>
 ```
 
 ![Archivo de ids.txt](https://github.com/ikepacheco/ZItemXML_LECTOR/blob/main/ids.txt.png?raw=true)
