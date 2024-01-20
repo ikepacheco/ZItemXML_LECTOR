@@ -7,7 +7,7 @@ _Además te dejará un archivo llamado **ids.txt** donde podrás ver los id obte
 Se debe aclarar que este programa está enfocado en su uso exclusivamente para Gunz, si usted desea puede modificarlo para usarlo a su manera.
 ```
 
-## Utilización 🚀
+## Uso 🚀
 
 _Solo debes tener los archivos **ZItem.xml** y **ZItem_Locale.xml** en el mismo lugar que tengas el LectorXML-ITEM(.exe) de este proyecto y ejecutar el programa(el archivo de texto **ids.txt** se generará automáticamente cuando ejecutes el programa)._
 
