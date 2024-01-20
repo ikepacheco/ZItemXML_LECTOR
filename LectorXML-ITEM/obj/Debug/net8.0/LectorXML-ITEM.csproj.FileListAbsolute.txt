@@ -1,0 +1,14 @@
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\bin\Debug\net8.0\LectorXML-ITEM.exe
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\bin\Debug\net8.0\LectorXML-ITEM.deps.json
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\bin\Debug\net8.0\LectorXML-ITEM.runtimeconfig.json
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\bin\Debug\net8.0\LectorXML-ITEM.dll
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\bin\Debug\net8.0\LectorXML-ITEM.pdb
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.AssemblyInfoInputs.cache
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.AssemblyInfo.cs
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.csproj.CoreCompileInputs.cache
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.dll
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\refint\LectorXML-ITEM.dll
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.pdb
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\LectorXML-ITEM.genruntimeconfig.cache
+D:\Jason\Lenguajes\C#\LectorXML\LectorXML-ITEM\LectorXML-ITEM\obj\Debug\net8.0\ref\LectorXML-ITEM.dll
